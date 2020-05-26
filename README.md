@@ -1,5 +1,7 @@
 
-you need to set you database information in properties/jdbc.properties firstly;
+When you download this project, two operations you need to do;
+
+1. you need to set you database information in properties/jdbc.properties firstly;
 
 And then use following sql sentences build database;
 
@@ -14,5 +16,11 @@ create table `user` (
 ); 
 
 insert into user (password) values ('root');
+
+
+
+2. import project, then right click project Properties -> Java Build Path -> Libraries -> Add Library -> Server Runtime -> Tomcat
+
+then all error will missing.
 
 
