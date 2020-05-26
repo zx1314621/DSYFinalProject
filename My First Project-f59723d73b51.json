@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "angular-pursuit-277923",
+  "private_key_id": "f59723d73b51795622c600929e45790c624cef1b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCfyvXLphCRGtOq\nDKPHdcizYDRgPw0K2Brzn4uQAChuWK/Bt5PpvycjEKqv6c6wImSii1aQeQQskTRQ\nw0ErB+hn5vmatc5HtULMWJFyUZwTWONKqbPQi2m6M5YvS1qhtJHDdq1srpvP15Qj\nij63A4bpvsXpoBujLqE68CLB/KEnZBHR4fzyvIMNfqgPvt8ZjREtAb6rXNma7Y9v\nwv6Kxh17IheCqmUtawd/83PPM0uzhGEbX9SNuxzuCrwjG8kRJGs0Nvcu+FoE2f8t\nZoZDEfqdF50WNGbNCjrUSBN/YLNFQ8a/56L6oyG8ZwVxAvUuOyIlbljXTN+5MokN\nojx4+74/AgMBAAECggEAA325L15XnVFN5ONgI/2gSWmlgKF6r6J3ZZw2PeAAV3eA\n5jAUagvJl0ayxqN1PGbmoPXUtH+tsNWT+YcSjOtKz2j99LyFHw7y6ykCNdJaS8KU\n5gQy0AXDummMc0hnrgHBGi6lF6tG7zG2uay4YGI819gvAG2FkmP0lNI7SCwJ+foj\ntAwXksle2UpshoFWsqIzTYRmEpIiPBYTeuxDr4BPpGXd6JlwloTungd8J1Pm9CBn\n6PJsLXinsHJ+5s8bOADH9AYR2lxRiMl0qTsuHiH2KhKHKODhPBPoc4lNA32bMAqs\nHhtNFMDP18yuKHxYGYtfCIApQvrnYoLaUvM5lwmEiQKBgQDWItKEQbn4d2Q2rHiJ\nrLW6cIDv2ze05lOeyOvWTxIOi1lrgbTkEjT89NskabMBuV+qQLfD80TPs9d+omUT\n/EoSzRIZSfUJjtc4Xz8n57GyW8QqZqGj9MGh+/mExeiLa8Zc+cyOduOMGvEpYijY\nfmp8xuFf7xNUN88yf5CwSFErNwKBgQC/CFgKEiI5DurybbLiMuaqq4L/NiOCaaHL\nhdbmPcoz8GDUFsTW52NARvT+8aJUCz4+wx2gwh/MHxSD3MpAEo72bhzffIIgUT26\nQabfxqqyJ0cCoUNMOV8t4Ll+8E6k41GUqe5J/lRK0PSKh3JWhBsKDVCNqpn3uCzO\naRRmr7VZOQKBgFX1fJRi3giDxNK9wVVi40CIUPn4AhC4NPEUrrdE3nbAMZEabEbx\nmBvDHwUq+RTEGUb628npKcJG60aGYhT3vbR2ZcGJErhXgsW6Vlvqgkaa19A9ir2K\nTwB7adqGp6bwCJziGd9Gkml3lz+Ji+P8OzsDiw07p4KzNJWM58QcA5lZAoGBALhc\nRRrzBTQrwXLVi53hodt0Sqgih4KEjzDrqcnqOAqIIeqNTspX5OFTmX2xlQenEhtg\nEmfi8Oz90b6whj/vqSkKe7LzZmHqBbiLQ5ETGgl0/oL7PweBFuofxuVK5ZscBs+C\ncAXY/WB26IoIzb/RHodE8kjGLHF1vUg3AQlY6ZuBAoGBALywKRCaqgJ41N/9DzDz\nGpNMeA7RtfISWci8Flv4yjXohIWy+roLwllSr/0oEQnoTmh5HpWKbRJATTxY7vfq\nwDfDbrfB6Ngpo1BHpHzkd69N8JmGu7jpWNvkcfa8kemvKseyy707gc8on5fGY5A4\nY4l7S9rRfbFEZxh0abPgHDbQ\n-----END PRIVATE KEY-----\n",
+  "client_email": "scu1419@angular-pursuit-277923.iam.gserviceaccount.com",
+  "client_id": "116719408871390813221",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/scu1419%40angular-pursuit-277923.iam.gserviceaccount.com"
+}
